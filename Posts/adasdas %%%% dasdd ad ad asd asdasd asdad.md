@@ -1,6 +1,7 @@
 ---
 title: "adasd"
-categories: []
+categories:
+  - "asfadsfasdfasf"
 description: "adasd"
 slug: "adasdas %%%% dasdd ad ad asd asdasd asdad"
 tags: []
